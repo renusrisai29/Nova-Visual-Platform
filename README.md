@@ -5,7 +5,7 @@ Nova Visual Platform is an immersive, standalone visual discovery and creator pl
 ## 🔗 Live Demo
 
 Experience the platform live:
-👉 [Nova Visual Platform Live Demo](https://github.com/renusrisai29/Nova-Visual-Platform)
+👉 [Nova Visual Platform Live Demo](https://renusrisai29.github.io/Nova-Visual-Platform/)
 
 ---
 
